@@ -1,0 +1,6 @@
+C:\Users\Дима\Source\Repos\Encryption\Homophonic\bin\Debug\Homophonic.dll
+C:\Users\Дима\Source\Repos\Encryption\Homophonic\bin\Debug\Homophonic.pdb
+C:\Users\Дима\Source\Repos\Encryption\Homophonic\obj\Debug\Homophonic.csprojAssemblyReference.cache
+C:\Users\Дима\Source\Repos\Encryption\Homophonic\obj\Debug\Homophonic.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Source\Repos\Encryption\Homophonic\obj\Debug\Homophonic.dll
+C:\Users\Дима\Source\Repos\Encryption\Homophonic\obj\Debug\Homophonic.pdb

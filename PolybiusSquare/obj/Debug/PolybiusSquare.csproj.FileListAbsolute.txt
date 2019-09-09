@@ -1,0 +1,6 @@
+C:\Users\Дима\Source\Repos\Encryption\PolybiusSquare\bin\Debug\PolybiusSquare.dll
+C:\Users\Дима\Source\Repos\Encryption\PolybiusSquare\bin\Debug\PolybiusSquare.pdb
+C:\Users\Дима\Source\Repos\Encryption\PolybiusSquare\obj\Debug\PolybiusSquare.csprojAssemblyReference.cache
+C:\Users\Дима\Source\Repos\Encryption\PolybiusSquare\obj\Debug\PolybiusSquare.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Source\Repos\Encryption\PolybiusSquare\obj\Debug\PolybiusSquare.dll
+C:\Users\Дима\Source\Repos\Encryption\PolybiusSquare\obj\Debug\PolybiusSquare.pdb

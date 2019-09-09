@@ -1,0 +1,6 @@
+C:\Users\Дима\Source\Repos\Encryption\Vigenere\bin\Debug\Vigenere.dll
+C:\Users\Дима\Source\Repos\Encryption\Vigenere\bin\Debug\Vigenere.pdb
+C:\Users\Дима\Source\Repos\Encryption\Vigenere\obj\Debug\Vigenere.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Source\Repos\Encryption\Vigenere\obj\Debug\Vigenere.dll
+C:\Users\Дима\Source\Repos\Encryption\Vigenere\obj\Debug\Vigenere.pdb
+C:\Users\Дима\Source\Repos\Encryption\Vigenere\obj\Debug\Vigenere.csprojAssemblyReference.cache

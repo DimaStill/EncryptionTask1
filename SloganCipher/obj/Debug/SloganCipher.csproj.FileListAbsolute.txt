@@ -1,0 +1,6 @@
+C:\Users\Дима\Source\Repos\Encryption\SloganCipher\bin\Debug\SloganCipher.dll
+C:\Users\Дима\Source\Repos\Encryption\SloganCipher\bin\Debug\SloganCipher.pdb
+C:\Users\Дима\Source\Repos\Encryption\SloganCipher\obj\Debug\SloganCipher.csprojAssemblyReference.cache
+C:\Users\Дима\Source\Repos\Encryption\SloganCipher\obj\Debug\SloganCipher.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Source\Repos\Encryption\SloganCipher\obj\Debug\SloganCipher.dll
+C:\Users\Дима\Source\Repos\Encryption\SloganCipher\obj\Debug\SloganCipher.pdb

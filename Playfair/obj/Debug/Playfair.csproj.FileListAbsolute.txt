@@ -1,0 +1,6 @@
+C:\Users\Дима\Source\Repos\Encryption\Playfair\bin\Debug\Playfair.dll
+C:\Users\Дима\Source\Repos\Encryption\Playfair\bin\Debug\Playfair.pdb
+C:\Users\Дима\Source\Repos\Encryption\Playfair\obj\Debug\Playfair.csprojAssemblyReference.cache
+C:\Users\Дима\Source\Repos\Encryption\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Source\Repos\Encryption\Playfair\obj\Debug\Playfair.dll
+C:\Users\Дима\Source\Repos\Encryption\Playfair\obj\Debug\Playfair.pdb

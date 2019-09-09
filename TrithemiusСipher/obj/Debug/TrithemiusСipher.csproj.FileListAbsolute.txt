@@ -1,0 +1,6 @@
+C:\Users\Дима\Source\Repos\Encryption\TrithemiusСipher\bin\Debug\TrithemiusСipher.dll
+C:\Users\Дима\Source\Repos\Encryption\TrithemiusСipher\bin\Debug\TrithemiusСipher.pdb
+C:\Users\Дима\Source\Repos\Encryption\TrithemiusСipher\obj\Debug\TrithemiusСipher.csprojAssemblyReference.cache
+C:\Users\Дима\Source\Repos\Encryption\TrithemiusСipher\obj\Debug\TrithemiusСipher.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Source\Repos\Encryption\TrithemiusСipher\obj\Debug\TrithemiusСipher.dll
+C:\Users\Дима\Source\Repos\Encryption\TrithemiusСipher\obj\Debug\TrithemiusСipher.pdb
